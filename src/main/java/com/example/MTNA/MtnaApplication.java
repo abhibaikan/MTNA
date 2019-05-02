@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MtnaApplication {
 
 	public static void main(String[] args) { SpringApplication.run(MtnaApplication.class, args);
-	System.out.println("hello")
+	System.out.println("hello");
 	}
 
 }
